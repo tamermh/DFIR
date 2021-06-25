@@ -1,0 +1,18 @@
+Tools
+Yara rukes generator 
+https://github.com/Neo23x0/yarGen
+
+some yara rules links
+https://github.com/DidierStevens/DidierStevensSuite/blob/master/
+https://github.com/Neo23x0/signature-base/tree/master/yara
+
+
+
+Yara on windows
+find all mal lnk files in malware-samples folders and its subfolders
+  yara64.exe LNK_Ruleset.yar -r c:\malware-samples\
+  
+  yara64.exe rules\RTF-rules\apt_royalroad.yar -r c:\malware-samples
+  
+ 
+
