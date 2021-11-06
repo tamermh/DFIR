@@ -13,5 +13,5 @@ find all mal lnk files in malware-samples folders and its subfolders
   >yara64.exe LNK_Ruleset.yar -r c:\malware-samples\
   >yara64.exe rules\RTF-rules\apt_royalroad.yar -r c:\malware-samples
   
- 
-
+ Thor Lite
+https://www.nextron-systems.com/thor-lite/
